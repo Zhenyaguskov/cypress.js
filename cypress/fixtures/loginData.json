@@ -1,0 +1,7 @@
+{
+  "validEmail": "german@dolnikov.ru",
+  "validPassword": "iLoveqastudio1",
+  "invalidEmail": "wrongemail@dolnikov.ru",
+  "invalidEmailWithoutAt": "germandolnikov.ru",
+  "recoveryEmail": "anyemail@example.com"
+}
